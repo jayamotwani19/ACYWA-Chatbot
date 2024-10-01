@@ -1,0 +1,34 @@
+Region	:	"There are three ways you can select a region or area of interest. Option 1 - On the Atlas map, Enter a region or area of interest into the search box on the top left-hand corner of the screen. Option 2 - Select region of your interest in the box located below the theme menu and click on the arrow to zoom into your current location. Option 3 -  Click anywhere on the interactive map to zoom in on it"
+
+Access to services, Parenting services (WA only), Primary Healthcare Access (WA only)	:	"Click on Atlas maps, then navigate to right hand side pane and click on themes and select "Healthy - > Substance use" and then select suitable sub category for finding the data you are looking for. You can also apply other filters on this data based on Age & Sex, Collection Year, Areas and Service Layers by choosing suitable options on the right hand side pane."
+
+
+-----Healthy------
+
+
+------Various Filters------
+
+Statistical areas	:	"To find information about Statistical areas, go to Homepage -> Main Menu options-> Technical Information -> Statistical areas"
+
+Socio-economic Indexes of Australia (SEIFA), Index of Economic Resources, Index of Education and Occupation, Index of Relative Socio-Economic Advantage and Disadvantage, Index of Relative Socio-Economic Disadvantage	:	"Click on Atlas maps, then navigate to right hand side pane and click on themes and select "Healthy -> Material basics - > Socio-economic Indexes of Australia (SEIFA)" and then select suitable sub category for finding the data you are looking for. You can also apply other filters on this data based on Age & Sex, Collection Year, Areas and Service Layers by choosing suitable options on the right-hand side pane."
+
+Technical information & methods	:	"To find Technical information & methods, go to Homepage -> Main Menu options-> Technical Information -> Technical information & methods"
+
+ ------Results Interpretation------
+
+Technical information	:	"The technical information document provides an overview of the data cleaning and data processing activities conducted in the creation of the Australian Child and Youth Wellbeing Atlas. Additionally, it includes information about certain statistical methods employed throughout the data preparation and cleaning process including Age groupings, Association and cause, Bias, Chance or random error, Confounding, Small numbers, Standardised ratios and Crude rates."
+
+------Valued, Loved and Safe------
+
+Atlas Video Guide	:	"To access the Atlas Video Guide, go to home page, click Resources and user guides -> ACYWA Resources"
+
+Seeking support, turning to others for support – Speaking Out Survey WA, turning to others for support – Growing Up in Queensland	:	"Click on Atlas maps, then navigate to right hand side pane and click on themes and select "Healthy -> Valued, loved and safe - > Seeking support" and then select suitable sub category for finding the data you are looking for. You can also apply other filters on this data based on Age & Sex, Collection Year, Areas and Service Layers by choosing suitable options on the right-hand side pane."
+
+Disability and chronic health conditions, Children and young people with a profound or severe core activity limitation, Children and young people with type 1 diabetes, Chronic physical illness related hospital admissions (WA only), Diabetes related hospital admissions	(WA only):	 "Click on Atlas maps, then navigate to right hand side pane and click on themes and select "Healthy - > Disability and chronic health conditions" and then select suitable sub category for finding the data you are looking for. You can also apply other filters on this data based on Age & Sex, Collection Year, Areas and Service Layers by choosing suitable options on the right hand side pane."
+
+Injury, ED presentations due to injury, poisoning, Hospital admissions due to injury (all hospitals) (WA only), Hospital admissions due to injury or poisoning (public hospitals), road accidents, falls, transport crash injury, injury due to exposure to inanimate mechanical forces	:	"Click on Atlas maps, then navigate to right hand side pane and click on themes and select "Healthy - > Injury" and then select suitable sub category for finding the data you are looking for. You can also apply other filters on this data based on Age & Sex, Collection Year, Areas and Service Layers by choosing suitable options on the right hand side pane."
+
+Time series	:	Results for all collection years available are indicated on the time series chart. Clicking on any of the time dots will show results for the specific year or time
+period.
+
+what is Licensing and attribution	:	"All Australian Child and Youth Wellbeing Atlas content is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) licence. Users must ensure that all use of Australian Child and Youth Wellbeing Atlas content is done within the limits of this licence." 
